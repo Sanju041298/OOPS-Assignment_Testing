@@ -37,11 +37,22 @@ There are two types of Users
 
 
 
-### Commands to execute :
+### Commands to execute : :+1:
 
 
 .To run =>  sbt run
 
 
 .To clean target folders => sbt clean
+
+
+## Testing :
+
+For the testing of CRUD APIs, we have used Scalatest library.
+ScalaTest is the most flexible and most popular testing tool in the Scala ecosystem. With ScalaTest, you can test Scala, Scala.js (JavaScript), Scala Native, Dotty (Scala 3), and Java code.
+
+
+
+
+
 
