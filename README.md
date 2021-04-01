@@ -26,10 +26,11 @@ There are two types of Users
 
 
 
-# Commands to execute :
-,,,
+### Commands to execute :
 
-To run =>  sbt run
-To clean target folders => sbt clean
 
-,,,
+.To run =>  sbt run
+
+
+.To clean target folders => sbt clean
+
