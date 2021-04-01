@@ -16,18 +16,20 @@ There are two types of Users
 .Address 
 
 **CRUD Operations**
-,,,
-.add
-.getById
-.getAll
-.update
-.delete
-.deleteAll
-,,,
+
+1.add
+2.getById
+3.getAll
+4.update
+5.delete
+6.deleteAll
 
 
-# Commands to execute
+
+# Commands to execute :
 ,,,
+
 To run =>  sbt run
 To clean target folders => sbt clean
+
 ,,,
